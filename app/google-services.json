@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "881247434404",
+    "firebase_url": "https://grocery-aggregator.firebaseio.com",
+    "project_id": "grocery-aggregator",
+    "storage_bucket": "grocery-aggregator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881247434404:android:675f76e229d83ac0",
+        "android_client_info": {
+          "package_name": "com.durzoflint.groceryaggregator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881247434404-qt140iv0u3ptr02vk8h95jslfrh0rb2j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.durzoflint.groceryaggregator",
+            "certificate_hash": "0d320ea19373c486085696aad24440672b6ef642"
+          }
+        },
+        {
+          "client_id": "881247434404-8kf5b1pgr67l9vh4vm50gqohmefb5l02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU572q7RN-S3ipLu0q68_dRg9XOdBcnNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881247434404-8kf5b1pgr67l9vh4vm50gqohmefb5l02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

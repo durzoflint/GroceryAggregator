@@ -85,8 +85,9 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content">
 
-                <Button
-                    android:text="Google"
+                <com.google.android.gms.common.SignInButton
+                    android:id="@+id/google_sign_in"
+                    app:buttonSize="icon_only"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content" />
 

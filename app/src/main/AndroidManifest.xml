@@ -10,6 +10,10 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".reviews.ReviewActivity"
+            android:theme="@style/NavigationDrawerTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
             android:name=".shop.ShopActivity"
             android:theme="@style/NavigationDrawerTheme" />
         <activity android:name=".login.LoginActivity" />
